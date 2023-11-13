@@ -3,10 +3,10 @@ let questions = [
   {
     numb: 1,
     question: "Quem foi a única pessoa na história a receber o Prêmio Nobel em áreas científicas diferentes?",
-    answer: "Marie Curiee",
+    answer: "Marie Curie",
     options: [
       "Albert Einstein",
-      "Marie Curiee",
+      "Marie Curie",
       "Stephen Hawking",
       "Linus Pauling"
     ]
@@ -16,7 +16,7 @@ let questions = [
     question: "Qual o país mais novo do mundo?",
     answer: "Sudão do Sul",
     options: [
-      "Timor Lestet",
+      "Timor Leste",
       "Montenegro",
       "Sudão do Sul",
       "Kosovo"
