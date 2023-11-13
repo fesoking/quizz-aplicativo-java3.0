@@ -80,7 +80,7 @@ let questions = [
    {
     numb: 8,
     question: "Qual é o nome do maior prêmio da indústria musical?",
-    answer: "Grammy",
+    answer: "Grammy Awards",
     options: [
       "Grammy Awards",
       "Oscar",
